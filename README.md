@@ -6,7 +6,7 @@ Tendermint Core Monthly Community Call
 
 
 
-April 2019 | [DEV SESSION] Tendermint State Sync Design Discussion | [video] (https://www.youtube.com/watch?v=4k23j2QHwrM&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv&index=11) |
+April 2019 | [DEV SESSION] Tendermint State Sync Design Discussion | [video] | (https://www.youtube.com/watch?v=4k23j2QHwrM&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv&index=11) |
 
 April 2019 | [DEV SESSION] ADR-036 - Blockchain Reactor Refactor | [video] (https://www.youtube.com/watch?v=TW2xC1LwEkE&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv&index=10)|
 
