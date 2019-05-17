@@ -1,15 +1,22 @@
 # Tendermint-Core-DEV-SESSIONS
-The Tendermint Core developer call is comprised of both Interchain Foundation and All in Bits team members discussing the development of Tendermint BFT and related research. The goal of the Tendermint Core developer calls is to provide transparency into the decision making process, technical information, update cylces. 
+The Tendermint Core developer call is comprised of both Interchain Foundation and All in Bits team members discussing the development of Tendermint BFT and related research. The goal of the Tendermint Core developer calls is to provide transparency into the decision making process, technical information, update cylces...etc 
 
-Tendermint Core Weekly Devs Meeting 
-Tendermint Core Monthly Community Call 
+Tendermint Core Weekly Devs Meeting - weekly team call 
+Tendermint Core Monthly Community Call - invitation to community project to present and lead Q&A with the TCD team.
 
-#Information:
+# Information:
+
+Meeting Date/Time: Most of the time Thursday's at 3 pm CEST. 
+
+Meeting Duration 1 hour
+
+The upcoming agenda is posted in the https://github.com/Tendermint/product/issues. We invite the community to comment on it with regards to low level technical discussions. We want to spotlight certain PRs and issues that will be discussed and have frequent working group updates, for example Inter-blockchain Communication (IBC) or community contributors.
+
 External attendees:
 Protocol developer, BFT-POS developers/projects and related researchers are invited to attend the meetings. Please email (michelle@tendermint.com) if you are interested in attending. The upcoming agenda is posted in the https://github.com/Tendermint/product/issues. We invite the community to comment on it with regards to low level technical discussions. 
 
 
-Previous [Tendermint Core DEV SESSIONS]
+# [Tendermint Core DEV SESSIONS]
 
 April 2019 | [DEV SESSION] Tendermint State Sync Design Discussion | [video](https://www.youtube.com/watch?v=4k23j2QHwrM&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv&index=11) |
 
@@ -37,13 +44,4 @@ October 8,2018| [DEV SESSION] Alternative Mempool Algorithms| [video](https://ww
 October 2018| [DEV SESSION] Tendermint Termination | [video](https://www.youtube.com/watch?v=YBZjecfjeIk&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv) |
 
 
-
-Meeting Date/Time: Thursday, 23rd at 3pm CEST
-
-Meeting Duration 1 hour
-
-Zoom 
-Agenda
-List PRs and issues that will be discussed
-Working Group Updates
 
