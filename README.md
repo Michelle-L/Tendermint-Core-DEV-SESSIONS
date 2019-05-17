@@ -5,9 +5,11 @@ Tendermint Core Weekly Devs Meeting
 Tendermint Core Monthly Community Call
 
 
+October 
 
-Date	Notes	Recording
-October 3, 2018: [DEV SESSION] Tendermint Termination | video
+October 3, 2018| [DEV SESSION] Tendermint Termination | [video] (https://www.youtube.com/watch?v=YBZjecfjeIk&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv)
+
+
 
 Meeting Date/Time: Thursday, 23rd at 3pm CEST
 
