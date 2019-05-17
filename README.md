@@ -3,7 +3,7 @@ The Tendermint Core developer call is comprised of both Interchain Foundation an
 
 ##### Tendermint Core Weekly Devs Meeting - weekly team call 
 
-##### Tendermint Core Monthly Community Call - invitation to community project to present and lead Q&A with the TCD team.
+##### Tendermint Core Monthly Community Call - invitation to community projects to present and lead Q&A with the TCD team.
 
 # Information:
 
