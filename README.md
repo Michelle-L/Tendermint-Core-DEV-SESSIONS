@@ -11,10 +11,10 @@ Meeting Date/Time: Most of the time Thursday's at 3 pm CEST.
 
 Meeting Duration 1 hour
 
-The upcoming agenda is posted in the https://github.com/Tendermint/product/issues. We invite the community to comment on it with regards to low level technical discussions. We want to spotlight certain PRs and issues that will be discussed and have frequent working group updates, for example Inter-blockchain Communication (IBC) or community contributors.
+The upcoming agenda is posted in https://github.com/Michelle-L/Tendermint-Core-DEV-SESSIONS/issues We invite the community to comment on it with regards to low level technical discussions. We want to spotlight certain PRs and issues that will be discussed and have frequent working group updates, for example Inter-blockchain Communication (IBC) or community contributors.
 
 External attendees:
-Protocol developer, BFT-POS developers/projects and related researchers are invited to attend the meetings. Please email (michelle@tendermint.com) if you are interested in attending. The upcoming agenda is posted in the https://github.com/Tendermint/product/issues. We invite the community to comment on it with regards to low level technical discussions. 
+Protocol developer, BFT-POS developers/projects and related researchers are invited to attend the meetings. Please email (michelle@tendermint.com) if you are interested in attending. We invite the community to comment on it with regards to low level technical discussions. 
 
 
 # [Tendermint Core DEV SESSIONS]
