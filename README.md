@@ -1,5 +1,4 @@
-# Tendermint-Core-DEV-SESSIONS
-Tendermint Core Development Sessions are in the pursuit of transparency and knowledge distribution
+
 
 # Tendermint-Core-DEV-SESSIONS
 The Tendermint Core developer call is comprised of both Interchain Foundation and All in Bits team members discussing the development of Tendermint BFT and related research. The goal of the Tendermint Core developer calls is to provide transparency into the decision making process, technical information, update cylces...etc 
