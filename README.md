@@ -21,6 +21,11 @@ External attendees:
 
 Protocol developer, BFT-POS developers/projects and related researchers are invited to attend the meetings. Please email (michelle@tendermint.com) if you are interested in attending. 
 
+| Date   |      Topic      |  Issue |
+|----------|:-------------:|------:|
+| May 23rd, 2019 |  TBD |  |
+| May 30th, 2019 |    TBD   |    |
+| June 6th, 2019 | TBD |     |
 
 # [Tendermint Core DEV SESSIONS]
 
