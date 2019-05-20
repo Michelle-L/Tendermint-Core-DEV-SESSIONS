@@ -24,8 +24,8 @@ Protocol developer, BFT-POS developers/projects and related researchers are invi
 | Date   |      Topic      |  Issue |
 |----------|:-------------:|------:|
 | May 23rd, 2019 |  TBD | [Link](https://github.com/Michelle-L/Tendermint-Core-DEV-SESSIONS/issues/1)|
-| May 30th, 2019 |    TBD   |    |
-| June 6th, 2019 | TBD |     |
+| May 30th, 2019 |    TBD   |   [Link](https://github.com/Michelle-L/Tendermint-Core-DEV-SESSIONS/issues/3) |
+| June 6th, 2019 | TBD |  TBD   |
 
 # Previous Tendermint Core Development Sessions
 
