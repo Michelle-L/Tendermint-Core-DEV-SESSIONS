@@ -27,7 +27,7 @@ Protocol developer, BFT-POS developers/projects and related researchers are invi
 | May 30th, 2019 |    TBD   |    |
 | June 6th, 2019 | TBD |     |
 
-# [Tendermint Core DEV SESSIONS]
+# Previous Tendermint Core Development Sessions
 
 April 2019 | Tendermint State Sync Design Discussion | [video](https://www.youtube.com/watch?v=4k23j2QHwrM&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv&index=11) |
 
