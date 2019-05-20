@@ -1,7 +1,7 @@
 
 
 # Tendermint-Core-DEV-SESSIONS
-The Tendermint Core developer call is comprised of both Interchain Foundation and All in Bits team members discussing the development of Tendermint BFT and related research. The goal of the Tendermint Core developer calls is to provide transparency into the decision making process, technical information, update cylces...etc 
+The Tendermint Core developer call is comprised of both [Interchain Foundation](http://interchain.io) and [All in Bits](https://tendermint.com) team members discussing the development of [Tendermint BFT](https://github.com/tendermint/tendermint) and related research. The goal of the Tendermint Core developer calls is to provide transparency into the decision making process, technical information, update cycles etc.
 
 We'll have two formats:
 
@@ -15,9 +15,10 @@ Meeting Date/Time: Most of the time Thursday's at 3 pm CEST. This will most of t
 
 Meeting Duration 1 hour
 
-The upcoming agenda is posted in https://github.com/Michelle-L/Tendermint-Core-DEV-SESSIONS/issues We invite the community to comment on it with regards to low level technical discussions. We want to spotlight certain PRs and issues that will be discussed and have frequent working group updates, for example Inter-blockchain Communication (IBC) or community contributors.
+The upcoming agenda is posted as [issues](https://github.com/Michelle-L/Tendermint-Core-DEV-SESSIONS/issues) in this repository. We invite the community to comment on it with regards to low level technical discussions. We want to spotlight certain pull requests and issues that will be discussed and have frequent working group updates, for example [Inter-blockchain Communication](https://github.com/cosmos/ics) (IBC) or community contributors.
 
 External attendees:
+
 Protocol developer, BFT-POS developers/projects and related researchers are invited to attend the meetings. Please email (michelle@tendermint.com) if you are interested in attending. 
 
 
